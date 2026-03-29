@@ -1,5 +1,5 @@
 {
-  "name": "PEA Explorer Pro",
+  "name": "Meter Finder",
   "description": "Advanced field tool for electricity user management with AI route optimization and interactive mapping.",
   "requestFramePermissions": [
     "geolocation"
